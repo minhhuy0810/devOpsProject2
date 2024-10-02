@@ -297,7 +297,7 @@ The following diagram illustrates the high-level architecture of the project.
 
 ## Demo 
 
-Link Youtube: [Demo video](https://youtu.be/DnJZOUJKh7o?si=Iui87lXH7RFUjj1h)
+Link Youtube: [Demo video](https://youtu.be/E2blo4-8JQc)
 
 
 [![Python application test with Github Actions](https://github.com/minhhuy0810/devOpsProject2/actions/workflows/main.yml/badge.svg)](https://github.com/minhhuy0810/devOpsProject2/actions/workflows/main.yml)
